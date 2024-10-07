@@ -20,4 +20,4 @@ RUN npm run build
 EXPOSE 8080
 
 # Start the application
-CMD [ "npm", "run", "serve" ]
+CMD [ "npm", "run", "serve", "&&", "node", "backend/server.cjs" ]
