@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 3000
 
 # Command to run your app
-CMD ["node", "your-app.js"]  # Replace with the actual name of your app file
+CMD ["node", "server.cjs"]  # Replace with the actual name of your app file
