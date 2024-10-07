@@ -4,9 +4,6 @@ FROM node:16
 # Set the working directory
 WORKDIR /usr/src/app
 
-# Install dependencies
-RUN npm install
-
 # Copy the rest of your application code
 COPY . .
 
