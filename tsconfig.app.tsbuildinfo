@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/router/index.ts","./src/App.vue","./src/components/LeftBar.vue","./src/components/ListDoc.vue","./src/components/Modal.vue","./src/components/SingleDoc.vue","./src/components/UploadMD.vue","./src/views/AddProjectView.vue","./src/views/HomeView.vue","./src/views/InviteView.vue"],"version":"5.6.2"}
